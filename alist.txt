@@ -1,0 +1,12 @@
+JsonpData({
+    "lines":[
+        {
+            "title":"*淘金者-推荐线路-首选",
+            "host":"http://tjz1.dian668.com"
+        },
+        {
+            "title":"*淘金者-临时线路-备用",
+            "host":"http://122.228.8.166:999"
+        }
+]
+})
